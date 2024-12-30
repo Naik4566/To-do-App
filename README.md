@@ -35,18 +35,9 @@ Include some screenshots of the app here:
 - **Posts Page**  
   ![Posts Page](https://github.com/user-attachments/assets/be0533fc-bf8c-46f8-aea2-6aada53d2b55)
 
-- **To-do List**
+- **To-do List (Main-Page)**
    ![Main Page](https://github.com/user-attachments/assets/fc7adba5-6bea-400b-8e45-c82952762744)
 
-  ## Installation
-
-1. Clone this repository to your local machine:
-
-```bash
-1.git clone https://github.com/your-username/to-do-app.git
-2.cd to-do-app
-3.flutter pub get
-4.flutter run
 
   ## Code Explanation
 
