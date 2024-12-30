@@ -101,4 +101,4 @@ Use the theme toggle button in the top-right corner to switch between light and 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-`https://github.com/Mude-Munikumar Naik/clinkk-assignment-to-do-app.git`
+`https://github.com/Naik4566/clinkk-assignment-to-do-app.git`
