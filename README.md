@@ -27,13 +27,26 @@ This is a simple To-Do App built with **Flutter**. It allows users to manage tas
 Include some screenshots of the app here:
 
 - **Home Page (To-Do List)**  
-  ![Home Page](https://github.com/user-attachments/assets/5a2c358e-9b10-43b1-81d5-4cfb5ff2cbae,https://github.com/user-attachments/assets/fc7adba5-6bea-400b-8e45-c82952762744)  
+  ![Home Page](https://github.com/user-attachments/assets/5a2c358e-9b10-43b1-81d5-4cfb5ff2cbae)  
 
 - **Add Task Page** 
   ![Add Task Page](https://github.com/user-attachments/assets/423ecac3-d1d8-4ed4-8123-b6a0db0a54f0)  
 
 - **Posts Page**  
   ![Posts Page](https://github.com/user-attachments/assets/be0533fc-bf8c-46f8-aea2-6aada53d2b55)
+
+- **To-do List**
+   ![Main Page](https://github.com/user-attachments/assets/fc7adba5-6bea-400b-8e45-c82952762744)
+
+  ## Installation
+
+1. Clone this repository to your local machine:
+
+```bash
+1.git clone https://github.com/your-username/to-do-app.git
+2.cd to-do-app
+3.flutter pub get
+4.flutter run
 
   ## Code Explanation
 
@@ -83,3 +96,8 @@ Use the search bar to filter posts by User ID.
 **Toggle Theme:**
 
 Use the theme toggle button in the top-right corner to switch between light and dark themes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+`https://github.com/Mude-Munikumar Naik/clinkk-assignment-to-do-app.git`
