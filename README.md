@@ -73,8 +73,8 @@ Error Handling: Displays a SnackBar in case of API errors or no internet connect
 ## API Used
 This app fetches posts from the JSONPlaceholder API, a free REST API for testing and prototyping.
 
-How to Use
-Manage Tasks:
+**How to Use
+Manage Tasks**:
 
 Use the To-Do List tab to view, mark as completed, or delete tasks.
 Click the Add Task button to add a new task.
@@ -87,6 +87,16 @@ Use the search bar to filter posts by User ID.
 **Toggle Theme:**
 
 Use the theme toggle button in the top-right corner to switch between light and dark themes.
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+```bash
+1.git clone https://github.com/your-username/to-do-app.git
+2.cd to-do-app
+3.flutter pub get
+4.flutter run
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
